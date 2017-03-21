@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Manu Renaux, Home page
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
