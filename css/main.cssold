@@ -1,0 +1,67 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif;font-size:16px;
+
+}
+.navbar {
+    border-bottom: 1px solid #d5d5d5;
+    margin-bottom: 10px;
+}
+
+nav ul, footer ul {
+    
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #000;
+    font-size:1.5em;
+    font-weight: lighter;
+
+}
+
+nav .is_active {
+    font-weight: bold;
+}
+ a {
+    text-decoration: none;
+    color: #F50;
+    
+
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active { 
+    font-weight: bold;
+}
+a:visited { 
+    color: #F83;
+}
+
+h1{font-size:1.3rem}
+h2{margin-top:1rem;font-size:1.1rem}
+h3{margin-top:1.5rem;font-size:1.05rem}
+h4,h5,h6{margin-top:1rem;font-size:1rem}
+p{margin-top:0;margin-bottom:1rem}
+strong{color:#303030}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+}
+
+ul.posts li {
+    list-style: none;
+}

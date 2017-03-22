@@ -1,29 +1,41 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">/</a></li>
-		        	<li><a href="/about">À Propos</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+      <!-- link to main stylesheet -->
+      <link rel="stylesheet" type="text/css" href="/css/main.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <div class="navbar">
+        <a class="site-title" href="./">Emmanuel Renaux</a>
+          <nav>
+            <ul>
+            {% assign pages = site.pages | sort:"weight"  %}
+              {%  for p in pages %}
+              <li><a {% if p.url == page.url %} class="is_active" {% endif %} href="{{ p.url }}">{{ p.title }}</a></li>
+              {% endfor %} 
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div><!-- /.wrapper -->
+    </div><!-- /.page-content -->
+
+    <footer>
+      <div class="wrapper">
+        <ul>
+          <li>•••</li>
+          <li><a href="mailto:emmanuel.renaux@imt-lille-douai.fr">email</a></li>
+          <li><a href="https://github.com/manurnx">github.com/manurnx</a></li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>
