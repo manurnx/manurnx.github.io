@@ -1,41 +1,66 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
       <!-- link to main stylesheet -->
       <link rel="stylesheet" type="text/css" href="/css/main.css">
   </head>
   <body>
-    <header class="site-header">
-      <div class="wrapper">
-        <div class="navbar">
+    <header class="site-header" role="banner">
+      <div class="wrapper wrapper navigation-wrapper has-logo">
+        <div class="navigation-links">
         <a class="site-title" href="./">Emmanuel Renaux</a>
-          <nav>
-            <ul>
+          <nav class="site-nav">
+            <div class="trigger">
             {% assign pages = site.pages | sort:"weight"  %}
               {%  for p in pages %}
-              <li><a {% if p.url == page.url %} class="is_active" {% endif %} href="{{ p.url }}">{{ p.title }}</a></li>
+              <a class="page-link {% if p.url == page.url %} active {% endif %}"" href="{{ p.url }}">{{ p.title }}</a>
               {% endfor %} 
-            </ul>
+            </div>
           </nav>
         </div>
+
+      <div class="navigation-logo">
+        
+        <a href="http://www.emn.fr/z-info/atlanmod">
+        
+        <img src="/img/logo_imtLD.png" class="institute-logo" alt="AtlanMod team (Inria, IMT Atlantique, LS2N) logo"></img>
+        
+        </a>
+        
+      </div>
       </div>
     </header>
 
-    <div class="page-content">
+    <div class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div><!-- /.wrapper -->
     </div><!-- /.page-content -->
 
-    <footer>
-      <div class="wrapper">
-        <ul>
-          <li>•••</li>
-          <li><a href="mailto:emmanuel.renaux@imt-lille-douai.fr">email</a></li>
-          <li><a href="https://github.com/manurnx">github.com/manurnx</a></li>
-        </ul>
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+ 
+            <div class="contact-list">
+        
+          Emmanuel Renaux :  <a href="mailto:emmanuel.renaux@imt-lille-douai.fr">email</a> | <a href="https://github.com/manurnx">github.com/manurnx</a>
+        
+            </div>
+      
       </div>
+      <div class="footer-col">
+      </div>
+
+    </div>
+  </div>
+
     </footer>
   </body>
 </html>
