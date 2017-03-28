@@ -145,14 +145,20 @@
   div {
     margin: 0 auto;
   }
-  h1 {
-    font-size: 2em;
+  h1,h2 {
+    font-size: 1.3em;
     padding-bottom: 0;
+    height:18px;
+    text-align:left;
+    padding:0px;
     span {
       color: $text-light-color;
       font-weight: 300;
     }
   }
+  h1 {
+    font-size: 2em;
+  }  
 }
 
 /* Posts */
