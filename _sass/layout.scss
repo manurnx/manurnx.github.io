@@ -265,7 +265,9 @@ code {
 
 footer {
   background-color: $background-color;
-  color: $text-color;
-  text-align: center;
-  padding: 0.6667em 0;
+  color: #808080;
+  border-top:  1px solid rgba(0,0,0,0.14);
+  font-size:0.7em;
+  text-align: left;
+  padding: 0.1em 0;
 }

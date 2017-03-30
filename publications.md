@@ -4,6 +4,9 @@ title: publications
 description: publications
 weight: 2
 ---
+
+# Publications
+
 ## International conferences
 
 * **SOSE'2013**, 7th International Symposium on Service Oriented Engineering - March 25-28, San Fransisco Bay, USA, A Multiview Framework Driven by Use Cases to Support the Design of Service Components, E. Renaux, G. Vanwomhoudt, C. Tombelle.

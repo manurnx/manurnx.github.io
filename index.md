@@ -1,11 +1,11 @@
 ---
 layout: page
-title: home 
+title: ••• 
 weight: 1
 ---
 
-
-![Manu](/img/manu.png){: .imgleft}Je suis Maître de Conférences dans le département Informatique et Réseaux de l'[Institut Mines-Telecom Lille Douai](https://github.com/thereviewindex/monochrome/archive/master.zip), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/) du laboratoire [CRIStAL](http://cristal.univ-lille.fr).
+# •••
+![PortraitManu](/img/manu.png){: .imgleft}Je suis Maître de Conférences dans le département Informatique et Réseaux de l'[Institut Mines-Telecom Lille Douai](https://github.com/thereviewindex/monochrome/archive/master.zip), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/) du laboratoire [CRIStAL](http://cristal.univ-lille.fr).
 
 Ma thématique de recherche est l'Ingénierie Dirigée par les Modèles et les méthodes de conception de logiciels.
 

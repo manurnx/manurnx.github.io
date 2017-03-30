@@ -6,7 +6,7 @@ weight: 10
 ---
 
 
-## Contact
+# Contact
 
 Emmanuel RENAUX, **IMT Lille-Douai**  
 Enseignant-Chercheur | Dept. Informatique et Réseaux    
