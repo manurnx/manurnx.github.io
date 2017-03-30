@@ -1,7 +1,8 @@
 ---
 layout: page
 title: publications
-description: publications.
+description: publications
+weight: 2
 ---
 ## International conferences
 
