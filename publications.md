@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: recherche
 description: publications
 weight: 2
 ---
