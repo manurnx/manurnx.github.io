@@ -2,7 +2,7 @@
 layout: page
 title: recherche
 description: publications
-weight: 2
+weight: 3
 ---
 
 # Publications
