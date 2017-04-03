@@ -15,7 +15,7 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 École Mines-Télécom IMT-Université de Lille  
 Rue Guglielmo Marconi - Cité Scientifique  
 59658 Villeneuve d'Ascq cedex - France  
-
+--
 e-mail : <a href="mailto:emmanuel.renaux@imt-lille-douai.fr">emmanuel.renaux@imt-lille-douai.fr</a>    
 téléphone direct : +33 (0)3 20 43 64 17  
 
@@ -23,7 +23,7 @@ téléphone direct : +33 (0)3 20 43 64 17
 * **CRIStAL (UMR 9189)** - [http://cristal.univ-lille.fr](http://cristal.univ-lille.fr)  
 Université Lille 1  
 59655 Villeneuve d'Ascq Cedex - France  
-
+--
 e-mail : <a href="mailto:emmanuel.renaux@univ-lille1.fr">emmanuel.renaux@univ-lille1.fr.fr</a>
 
 
