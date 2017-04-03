@@ -12,7 +12,7 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 
 
 * **IMT Lille-Douai** - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr)
--- ![PortraitManu]({{site.url}}/img/manu.png){: .imgleft}    
+<!-- ![PortraitManu]({{site.url}}/img/manu.png){: .imgleft}    -->
 École Mines-Télécom IMT-Université de Lille  
 Rue Guglielmo Marconi - Cité Scientifique  
 59658 Villeneuve d'Ascq cedex - France  
