@@ -10,6 +10,12 @@ weight: 10
 Maître de Conférences IMT dans le département Informatique et Réseaux de l'IMT Lille-Douai, site de Lille  
 Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/)
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 | ![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft} | **IMT Lille-Douai** - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr) | 
 || Rue Guglielmo Marconi - Cité Scientifique |
