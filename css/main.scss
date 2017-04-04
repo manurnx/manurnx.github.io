@@ -10,9 +10,12 @@
     margin-right: 10px;
     margin-bottom: 0px;
 }
-.logoright {
+.logoright, logoleft {
     float: right;
     margin-right: 10px;
     margin-bottom: 0px;
     width: 10%;
+}
+.logoleft {
+    float: left;
 }
