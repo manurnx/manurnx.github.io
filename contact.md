@@ -20,12 +20,14 @@ téléphone direct : +33 (0)3 20 43 64 17*
 
 
 * **CRIStAL (UMR 9189)** - [http://cristal.univ-lille.fr](http://cristal.univ-lille.fr)  
+![LogoCRIStAL]({{site.url}}/img/logoCRIStAL.svg){: .imgright}  
 Université Lille 1  
 59655 Villeneuve d'Ascq Cedex - France    
 *e-mail : <a href="mailto:emmanuel.renaux@univ-lille1.fr">emmanuel.renaux@univ-lille1.fr.fr</a>*
 
 
-* **IRCICA (USR 3380)** - [http://www.iricia.univ-lille1.fr](www.iricia.univ-lille1.fr)    
+* **IRCICA (USR 3380)** - [http://www.iricia.univ-lille1.fr](www.iricia.univ-lille1.fr)   
+![LogoIRCICA]({{site.url}}/img/Logo_Ircica_Couleur_RVB_1.jpg){: .imgright}  
 Parc Scientifique de la Haute Borne  
 50, avenue Halley  
 BP 70478  
