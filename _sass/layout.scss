@@ -12,13 +12,14 @@
     @media (min-width: 940px) {
       font-size: 1em;
     }
-	  a:active { 
-    background-color: yellow;
-}
+    
     &:hover {
       background-color: lighten($text-light-color, 5%);
     }
   }
+a:active { 
+    font-color: orange;
+    }
   span {
       font-weight: 200;
     }
@@ -146,8 +147,8 @@
   	display: inline-block;
   }
 		  a:active { 
-    background-color: yellow;
-}
+    font-color: orange;
+    }
   div {
     margin: 0 auto;
   }
