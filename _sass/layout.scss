@@ -12,6 +12,9 @@
     @media (min-width: 940px) {
       font-size: 1em;
     }
+	  a:active { 
+    background-color: yellow;
+}
     &:hover {
       background-color: lighten($text-light-color, 5%);
     }
