@@ -18,10 +18,12 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 
 
 ![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft} 
-| **IMT Lille-Douai** - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr) | 
+
+| **IMT Lille-Douai** - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr) |
+|--------|
 | Rue Guglielmo Marconi - Cité Scientifique |
 | 59658 Villeneuve d'Ascq cedex - France |
-| *e-mail : <a href="mailto:emmanuel.renaux@imt-lille-douai.fr">emmanuel.renaux@imt-lille-douai.fr</a> | 
+| *e-mail : <a href="mailto:emmanuel.renaux@imt-lille-douai.fr">emmanuel.renaux@imt-lille-douai.fr</a> |
 | téléphone direct : +33 (0)3 20 43 64 17*  |
 
 
