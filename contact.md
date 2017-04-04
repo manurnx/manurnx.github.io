@@ -11,14 +11,14 @@ Maître de Conférences IMT dans le département Informatique et Réseaux de l'I
 Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/)
 
 
-![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft} 
 
-| **IMT Lille-Douai** - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr) |
-|--------|
-| Rue Guglielmo Marconi - Cité Scientifique |
-| 59658 Villeneuve d'Ascq cedex - France |
-| *e-mail : <a href="mailto:emmanuel.renaux@imt-lille-douai.fr">emmanuel.renaux@imt-lille-douai.fr</a> |
-| téléphone direct : +33 (0)3 20 43 64 17*  |
+
+| ![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft} | **IMT Lille-Douai** - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr) |
+||--------|
+|| Rue Guglielmo Marconi - Cité Scientifique |
+|| 59658 Villeneuve d'Ascq cedex - France |
+|| *e-mail : <a href="mailto:emmanuel.renaux@imt-lille-douai.fr">emmanuel.renaux@imt-lille-douai.fr</a> |
+|| téléphone direct : +33 (0)3 20 43 64 17*  |
 
 
 ![LogoCRIStAL]({{site.url}}/img/logoCRIStAL.svg){: .logoleft}  
