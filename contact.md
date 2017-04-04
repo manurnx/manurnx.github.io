@@ -10,7 +10,7 @@ weight: 10
 Maître de Conférences IMT dans le département Informatique et Réseaux de l'IMT Lille-Douai, site de Lille  
 Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/)
 
-![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logo}  
+![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft}  
 
 | **IMT Lille-Douai** - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr) |
 ||--------|
@@ -20,7 +20,7 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 || téléphone direct : +33 (0)3 20 43 64 17*  |
 
 
-![LogoCRIStAL]({{site.url}}/img/logoCRIStAL.svg){: .logo}  
+![LogoCRIStAL]({{site.url}}/img/logoCRIStAL.svg){: .logoleft}  
 
 | **CRIStAL (UMR 9189)** - [http://cristal.univ-lille.fr](http://cristal.univ-lille.fr) |
 |--------|
@@ -29,7 +29,7 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 | *e-mail : <a href="mailto:emmanuel.renaux@univ-lille1.fr">emmanuel.renaux@univ-lille1.fr.fr</a>* |
 
 
-![LogoIRCICA]({{site.url}}/img/Logo_Ircica_Couleur_RVB_1.jpg){: .logo}  
+![LogoIRCICA]({{site.url}}/img/Logo_Ircica_Couleur_RVB_1.jpg){: .logoleft}  
 
 | **IRCICA (USR 3380)** - [http://www.iricia.univ-lille1.fr](www.iricia.univ-lille1.fr) |
 |-------|
