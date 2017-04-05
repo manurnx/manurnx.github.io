@@ -145,7 +145,7 @@ a:active {
   a {
   	text-decoration: none;
   	display: inline-block;
-      color: darkolivegreen;
+      color: $text-color;
   }
 a:active { 
     color: orange;
