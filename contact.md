@@ -18,7 +18,7 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
   Rue Guglielmo Marconi - Cité Scientifique  
   59658 Villeneuve d'Ascq cedex - France  
   e-mail : emmanuel.renaux@imt-lille-douai.fr
-  téléphone direct : +33 (0)3 20 43 64 17*  
+  téléphone direct : +33 (0)3 20 43 64 17  
 ```
 
 ![LogoCRIStAL]({{site.url}}/img/logoCRIStAL.svg){: .logoleft}  
