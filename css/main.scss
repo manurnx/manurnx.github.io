@@ -5,11 +5,17 @@
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
 
-.imgleft {
+.imgleft, .imgright {
     float: left;
+    margin-top: 0px;
     margin-right: 10px;
     margin-bottom: 0px;
+    max-width: 15%;
 }
+.imgright {
+    float:right;
+}
+
 .logoright, .logoleft {
 float: right;
     margin-right: 10px;
@@ -20,4 +26,8 @@ float: right;
 float: left;
     margin-left: 10px;
 }
+.spacer 
+{     
+  clear: both; 
+} 
 

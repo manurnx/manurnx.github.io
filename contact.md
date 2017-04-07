@@ -5,13 +5,16 @@ description: contact
 weight: 10
 ---
 
+![mePhone]({{site.url}}/img/mePhone.png){: .imgright}
+
 
 # Contact
 Maître de Conférences IMT dans le département Informatique et Réseaux de l'IMT Lille-Douai, site de Lille  
 Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/)
 
 
-![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft}  
+![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft} 
+<div class="spacer" />  
 **IMT Lille-Douai**  - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr)  
 
 ```
@@ -22,6 +25,7 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 ```
 
 ![LogoCRIStAL]({{site.url}}/img/logoCRIStAL.svg){: .logoleft}  
+<div class="spacer" />  
 **CRIStAL (UMR 9189)**  - [http://cristal.univ-lille.fr](http://cristal.univ-lille.fr)  
 ```
   Université Lille 1  
@@ -30,6 +34,7 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 ```
 
 ![LogoIRCICA]({{site.url}}/img/Logo_Ircica_Couleur_RVB_1.jpg){: .logoleft}  
+<div class="spacer" />  
 **IRCICA (USR 3380)**  - [http://www.iricia.univ-lille1.fr](www.iricia.univ-lille1.fr)  
 ```
   Parc Scientifique de la Haute Borne  
