@@ -8,10 +8,10 @@ weight: 10
 ![mePhone]({{site.url}}/img/mePhone.png){: .imgright}
 
 
-# Contact
+
 Maître de Conférences IMT dans le département Informatique et Réseaux de l'IMT Lille-Douai, site de Lille  
 Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/)
-
+<div class="spacer" />  <div class="spacer" />  <div class="spacer" />  
 
 ![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft} 
 <div class="spacer" />  

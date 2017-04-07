@@ -6,9 +6,9 @@ weight: 2
 ---
 ![monTableau]({{site.url}}/img/tableau.jpg){: .imgright}
 
-# Enseignement
 
-## Conception d'Application pour les Systèmes d'Information
+
+# Conception d'Application pour les Systèmes d'Information
 
 Mon domaine d'enseignement est le génie logiciel. Je me suis spécialisé dans les techniques de modélisation d'applications d'entreprise. En particulier, j'anime un module de modélisation d'applications en UML. Cette UV (Unité de Valeur) est une des UV de spécialité de fin de cursus d'ingénieur.  
 
@@ -20,7 +20,7 @@ Mon domaine d'enseignement est le génie logiciel. Je me suis spécialisé dans 
 
 *Je dispense cet enseignement à distance également.*
 
-## Autres enseignements
+# Autres enseignements
 
 Je coordonne une autre UV de spécialité : Intégration de Services. Cette UV présente des techniques d'intégrations de composants applicatifs, ainsi que les architectures applicatives de type Java Enterprise Edition.  
 

@@ -10,23 +10,28 @@
     font-size: 1.5em;
     font-weight: 400;
     @media (min-width: 940px) {
-      font-size: 1em;
-    }
+        font-size: 1em;
+      }
     
     &:hover {
       background-color: lighten($text-light-color, 5%);
+      }
+    
     }
-  }
-a:active { 
-    color: orange;
-    }
+     
   span {
       font-weight: 200;
+      
     }
+      
 }
 
 #nav {
   @include nav-position(right);
+    a.current {
+    color:firebrick;
+    font-weight: 500;
+    }
 }
 
 #nav-left {
@@ -41,6 +46,7 @@ a:active {
 
 #nav-left.menu-open-left {
   @include open(14rem);
+
 }
 
 #nav-links {
@@ -50,8 +56,13 @@ a:active {
   a {
     padding-left: 10px;
     color: $text-color;
-    font-weight: 300
+    font-weight: 300;
   }
+ a.current {
+    color:firebrick;
+    font-weight: 500;
+    }
+
 }
 
 /* Separator after menu */
@@ -149,11 +160,11 @@ a {
   a {
   	text-decoration: none;
   	display: inline-block;
-      color: $text-color;
+    color: $text-color;
   }
-a:active { 
-    color: orange;
-    }
+       
+    
+    
   div {
     margin: 0 auto;
   }
@@ -165,12 +176,14 @@ a:active {
     padding:0px;
     span {
       color: $text-light-color;
-      font-weight: 300;
+      font-weight: 200;
+        font-size: 1em;
     }
   }
   h1 {
     font-size: 2em;
   }  
+    
 }
 
 /* Posts */
