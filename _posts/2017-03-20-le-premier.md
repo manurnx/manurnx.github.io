@@ -1,7 +1,7 @@
 ---
 title: Recyclage d'Artefacts Non Livrables
 description: Capitaliser sur toutes les productions d'un projet informatique, y compris ce qu'on ne livre pas !
-header: Recyclage
+header: Recyclage d'Artefacts Non Livrables
 type: Article
 ---
 
