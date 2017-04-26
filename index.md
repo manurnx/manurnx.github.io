@@ -4,7 +4,7 @@ title: •••
 weight: 1
 ---
 
-![PortraitManu]({{site.url}}/img/manu.png){: .imgleft}Je suis Maître de Conférences dans le département Informatique et Réseaux de l'[Institut Mines-Telecom Lille Douai](http://www.imt-lille-douai.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/) du laboratoire [CRIStAL](http://cristal.univ-lille.fr).
+![PortraitManu]({{site.url}}/img/me.png){: .imgleft}Je suis Maître de Conférences dans le département Informatique et Réseaux de l'[Institut Mines-Telecom Lille Douai](http://www.imt-lille-douai.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/) du laboratoire [CRIStAL](http://cristal.univ-lille.fr).
 
 Ma thématique de recherche est l'Ingénierie Dirigée par les Modèles et les méthodes de conception de logiciels.
 
