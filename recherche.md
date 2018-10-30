@@ -35,6 +35,7 @@ Actuellement dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/) d
 
 ## Workshops
 
+* **HuFaMo'2018 Third International Workshop on Human Factors in Modeling, at Models 2018**, Copenhague, Danemark, Octobre 2018,  Using sketch recognition for capturing developer’s mental models,  Emmanuel Renaux, Tatiana De-Wyse, José Mennesson (IMT Lille Douai, France)
 * **WCOP'2006 Eleventh International Workshop on Component-Oriented Programming, at ECOOP 2006**, Nantes, France, Juillet 2006, Component based method for enterprise application design, a case study, E. Renaux (Trigone, université de Lille 1, France), E. Lefebvre (ETS Montréal, Canada)
 * **ECMDA-FA'2005**, Tools Exhibition ECMDA-FA Open Source and Academic Tools, November 7-10th, Nuremberg, Germany, ModX - a graphical tool for MOF metamodels, Xavier Le Pallec, Emmanuel Renaux, Cesar Olavo Moura (Trigone Laboratory, University of Lille 1, France)
 * **ECOOP'2005, Workshop Building A System Using Patterns: Examine the Illustrious Claim**, Glasgow Juillet 2005, Enterprise Component Design based on Business Processes, E. Renaux (Trigone, université de Lille 1, France), E. Lefebvre (ETS Montréal, Canada)
