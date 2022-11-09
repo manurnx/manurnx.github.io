@@ -13,9 +13,9 @@ Maître de Conférences IMT dans le département Informatique et Réseaux de l'I
 Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans l'équipe [Carbon](http://www.cristal.univ-lille.fr/carbon/)
 <div class="spacer" />  <div class="spacer" />  <div class="spacer" />  
 
-![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft} 
+![LogoIMT]({{site.url}}/img/logo_imtlille.svg){: .logoleft}
 <div class="spacer" />  
-**IMT Lille-Douai**  - [http://www.imt-lille-douai.fr](http://www.imt-lille-douai.fr)  
+**IMT Nord Europe**  - [http://www.imt-nord-europe.fr](http://www.imt-nord-europe.fr)  
 
 ```
   Rue Guglielmo Marconi - Cité Scientifique  
@@ -28,9 +28,9 @@ Chercheur associé au laboratoire [CRIStAL](http://cristal.univ-lille.fr), dans 
 <div class="spacer" />  
 **CRIStAL (UMR 9189)**  - [http://cristal.univ-lille.fr](http://cristal.univ-lille.fr)  
 ```
-  Université Lille 1  
+  Université Lille
   59655 Villeneuve d'Ascq Cedex - France  
-  e-mail : emmanuel.renaux@univ-lille1.fr.fr
+  e-mail : emmanuel.renaux@univ-lille.fr.fr
 ```
 
 ![LogoIRCICA]({{site.url}}/img/Logo_Ircica_Couleur_RVB_1.jpg){: .logoleft}  
